@@ -35,5 +35,10 @@
 ##  게임 화면
 
 ### 시작화면 
-<br/>
+![Image](https://github.com/user-attachments/assets/b43c186d-3a8b-4f55-9825-f70341a21a13)
 
+### 게임 플레이
+![Image](https://github.com/user-attachments/assets/a2ef034c-3beb-4116-b84c-a01d81b02c22)
+
+### 게임 종료
+![Image](https://github.com/user-attachments/assets/fbec08d3-1554-45c5-b616-238afb3aa044)
